@@ -62,7 +62,7 @@
       </a-layout-footer>
 
       <!-- Setting Drawer (show in development mode) -->
-      <setting-drawer v-if="!production"></setting-drawer>
+      <setting-drawer></setting-drawer>
     </a-layout>
   </a-layout>
 </template>
