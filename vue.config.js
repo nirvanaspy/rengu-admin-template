@@ -39,7 +39,7 @@ const vueConfig = {
     electronBuilder: {
       builderOptions: {
         win: {
-          icon: './public/app.ico'
+          icon: './public/favicon.ico'
         },
         mac: {
           icon: './public/app.png'
